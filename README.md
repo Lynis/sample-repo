@@ -1,3 +1,3 @@
 # sample-repo
 
-Sample Repo
+Sample Repository
