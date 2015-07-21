@@ -1,3 +1,3 @@
-# sample-repo
+# sample-repo-demo
 
 Sample Repository
